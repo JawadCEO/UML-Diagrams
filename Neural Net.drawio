@@ -1,0 +1,50 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Page-1" id="i0fnP8ojMhyWo2R27zpF">
+    <mxGraphModel dx="1050" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="122" y="563" width="470" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-23" value="Neural Network" style="shape=switch;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="264" y="565" width="177" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-25" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="476" y="685" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Oa-qdbQ1Z7-Jyvj8XH5W-27" target="Oa-qdbQ1Z7-Jyvj8XH5W-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="718" />
+              <mxPoint x="435" y="718" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-27" value="" style="shape=mxgraph.cisco.switches.virtual_layer_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="323.5" y="675" width="64" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Oa-qdbQ1Z7-Jyvj8XH5W-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318" y="717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-29" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.event;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="174" y="691" width="85" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="199" y="694" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-37" value="&lt;b&gt;Input Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="199" y="694" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-38" value="&lt;b&gt;Interconnected Hidden Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="317" y="765" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-qdbQ1Z7-Jyvj8XH5W-39" value="&lt;b&gt;Output Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="482.5" y="713" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
